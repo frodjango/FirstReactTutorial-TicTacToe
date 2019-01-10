@@ -1,0 +1,8 @@
+the official React tutorial(from facebook i' say)
+
+https://reactjs.org/tutorial/tutorial.html
+
+npm start in root directory
+
+
+
